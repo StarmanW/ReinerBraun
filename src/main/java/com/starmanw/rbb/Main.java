@@ -1,6 +1,6 @@
-package com.reinerbraun;
+package com.starmanw.rbb;
 
-import com.reinerbraun.model.ReinerBraun;
+import com.starmanw.rbb.model.ReinerBraun;
 
 public class Main {
     public static void main(String[] args) {
